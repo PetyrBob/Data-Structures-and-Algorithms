@@ -1,4 +1,4 @@
-# Data Structures and Algorithms ![image](https://github.com/user-attachments/assets/3b9f2a86-2bb0-4605-915c-8bd75881e90a)
+# Data Structures and Algorithms <img src="[https://example.com/logo.svg](https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg)" alt="Logo" width="200" height="100">
 
 ## PRELIMINARY
 ## MIDTERM
