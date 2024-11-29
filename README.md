@@ -1,5 +1,5 @@
 <div align="center" style="background-color: #007BFF; color: white; padding: 20px; border-radius: 8px;">
-  <h1 style="margin: 0;">D A T A  S T R U C T U R E S  A N D  A L G O R I T H M S</h1>
+  <h1 style="margin: 0;">D A T A    S T R U C T U R E S    A N D    A L G O R I T H M S</h1>
 </div>
 
 <br>
