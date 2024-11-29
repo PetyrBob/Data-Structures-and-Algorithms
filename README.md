@@ -1,5 +1,8 @@
-# Data Structures and Algorithms <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/459px-ISO_C%2B%2B_Logo.svg.png" alt="Logo" width="50" height="50">
+# Data Structures and Algorithms 
 
+<div style="background-color: #f0f8ff; padding: 10px; border-radius: 5px; border: 1px solid #ccc;">
+  PRELIMINARY PERIOD
+</div> 
 
 ## PRELIMINARY
 ## MIDTERM
