@@ -1,1 +1,4 @@
-# Data-Structures-and-Algorithms
+# Data Structures and Algorithms
+## PRELIMINARY
+## MIDTERM
+##SEMI-FINAL
