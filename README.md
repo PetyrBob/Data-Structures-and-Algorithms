@@ -1,5 +1,5 @@
 <div align="center" style="background-color: #007BFF; color: white; padding: 20px; border-radius: 8px;">
-  <h1 style="margin: 0;">DATA STRUCTURE AND ALGORITHMS</h1>
+  <h1 style="margin: 0;">DATA STRUCTURES AND ALGORITHMS</h1>
 </div>
 
 <br>
