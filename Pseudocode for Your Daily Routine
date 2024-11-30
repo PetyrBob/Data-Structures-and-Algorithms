@@ -1,0 +1,7 @@
+Enter my routine task ["brush my teeth", "take a cold bath", "eat my breakfast"]
+Enter the functions to collect the tasks that are input
+	Enter verify that indicates that it successfully enter the tasks accordingly
+Enter a platfrom to notify the user that will indicate successfully or failed to enter the following tasks
+Enter the tasks that are given then enter the automate functions
+Enter function collect to collect the tasks then return
+Enter the function format to organize the user tasks end send it to the assinged platform like gmail etc.
