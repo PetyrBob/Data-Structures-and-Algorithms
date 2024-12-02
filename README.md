@@ -9,3 +9,12 @@ II. [Activity 1: Calculator](https://github.com/PetyrBob/Data-Structures-and-Alg
 ## MIDTERM PERIOD
 II. [Midterm Examination: Seller Menu Management System](https://github.com/PetyrBob/Seller-Menu-Management-Sysrtem)
 ## SEMI-FINAL PERIOD
+I. [Basic Stack Operation](https://github.com/PetyrBob/Data-Structures-and-Algorithms/blob/main/stack.cpp)
+
+II. [Application of Stack: Calculator](https://github.com/PetyrBob/Calculator-Stack)
+
+III. [Activity Queue: Olivia Rodrigo's Concert Ticketing System](https://github.com/PetyrBob/System-Ticketing-Queue)
+
+IV. [Semi-Final Exam Project: Jollibee Ordering System](https://github.com/PetyrBob/Jollibee-Ordering-System-using-Stack-and-Queue-)
+
+
