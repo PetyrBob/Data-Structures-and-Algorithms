@@ -3,6 +3,7 @@
 </div>
 
 ## PRELIMINARY PERIOD
+I. [Activity 1: Calculator]()
 ## MIDTERM PERIOD
 II. [Midterm Examination: Seller Menu Management System](https://github.com/PetyrBob/Seller-Menu-Management-Sysrtem)
 ## SEMI-FINAL PERIOD
