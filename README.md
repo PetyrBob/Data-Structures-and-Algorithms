@@ -19,4 +19,8 @@ IV. [Semi-Final Exam Project: Jollibee Ordering System](https://github.com/Petyr
 
   - [Documentation:  Jollibee Ordering System](https://github.com/PetyrBob/Jollibee-Ordering-System-using-Stack-and-Queue-/blob/main/Jollibe_Ordering_System_Documentation.pdf)
 
+## FINAL PERIOD
+I. [Group Reporting: Linear Search Algorithms](https://github.com/PetyrBob/Data-Structures-and-Algorithms/blob/main/LINEAR_SEARCH_ALGORITHM.pdf)
+  - [Linear Search Algorithm Source Code](https://github.com/Allie1080/linear-search-datastruct/blob/main/main.cpp)
+
 
