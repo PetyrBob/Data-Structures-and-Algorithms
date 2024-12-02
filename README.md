@@ -4,5 +4,5 @@
 
 ## PRELIMINARY PERIOD
 ## MIDTERM PERIOD
-II. [Midterm Examination: Seller Menu Management Sysrtem](https://github.com/PetyrBob/Seller-Menu-Management-Sysrtem)
+II. [Midterm Examination: Seller Menu Management System](https://github.com/PetyrBob/Seller-Menu-Management-Sysrtem)
 ## SEMI-FINAL PERIOD
