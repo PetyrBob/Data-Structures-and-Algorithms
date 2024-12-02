@@ -17,6 +17,6 @@ III. [Activity Queue: Olivia Rodrigo's Concert Ticketing System](https://github.
 
 IV. [Semi-Final Exam Project: Jollibee Ordering System](https://github.com/PetyrBob/Jollibee-Ordering-System-using-Stack-and-Queue-)
 
-    - [Documentation:  Jollibee Ordering System](https://github.com/PetyrBob/Jollibee-Ordering-System-using-Stack-and-Queue-/blob/main/Jollibe_Ordering_System_Documentation.pdf)
+  - [Documentation:  Jollibee Ordering System](https://github.com/PetyrBob/Jollibee-Ordering-System-using-Stack-and-Queue-/blob/main/Jollibe_Ordering_System_Documentation.pdf)
 
 
