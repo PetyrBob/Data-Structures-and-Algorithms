@@ -7,6 +7,8 @@ I. [Quiz 1: Student Grading System](https://github.com/PetyrBob/Data-Structures-
 
 II. [Activity 1: Calculator](https://github.com/PetyrBob/Data-Structures-and-Algorithms/blob/main/calculator.cpp)
 ## MIDTERM PERIOD
+I. [Recreation of To-do List using Vector/List]()
+
 II. [Midterm Examination: Seller Menu Management System](https://github.com/PetyrBob/Seller-Menu-Management-Sysrtem)
 ## SEMI-FINAL PERIOD
 I. [Basic Stack Operation](https://github.com/PetyrBob/Data-Structures-and-Algorithms/blob/main/stack.cpp)
